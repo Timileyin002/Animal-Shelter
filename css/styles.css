@@ -235,4 +235,23 @@ header {
     height: 300px;
     margin-top: 20px;
 }
+.number {
+    margin-top: -140px;
+}
+
+.number p {
+    font-size: x-large;
+    font-weight: 500;
+    margin-top: 25px;
+}
+
+.number h1 {
+    font-size: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.number center {
+    margin-top: -100px;
+    color: white;
+}
 
