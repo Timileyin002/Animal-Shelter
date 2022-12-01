@@ -330,4 +330,31 @@ header {
     text-decoration: none;
     color: white;
 }
+#position-2 {
+    width: 100%;
+    height: 300px;
+    margin-top: -16px;
+    background-image: url(../images/pexels-photo-6985133.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin-top: 100px;
+}
+
+.year {
+    margin-top: -190px;
+}
+
+.year h2 {
+    color: white;
+}
+
+.button-year {
+    margin-top: 30px;
+}
+
+.button-year a {
+    text-decoration: none;
+    color: white;
+}
 
