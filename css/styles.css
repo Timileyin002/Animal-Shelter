@@ -282,4 +282,19 @@ header {
     text-decoration: none;
     font-size: large;
 }
+#push-pets2 {
+    display: flex;
+    margin-top: 40px;
+}
+
+.second-image img {
+    margin-left: 40px;
+    border-radius: 10px;
+}
+
+.second-image p a {
+    margin-left: 140px;
+    text-decoration: none;
+    font-size: large;
+}
 
