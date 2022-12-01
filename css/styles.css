@@ -59,3 +59,19 @@ header {
     padding-bottom: 15px;
     border-radius: 30px;
 }
+#title {
+    margin-top: 150px;
+}
+
+#title h1 {
+    font-size: 45px;
+    font-weight: bold;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#title p {
+    color: white;
+    font-size: 23px;
+    margin-top: 25px;
+}
