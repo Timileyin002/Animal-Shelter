@@ -267,4 +267,19 @@ header {
     color: white;
     text-decoration: none;
 }
+#push-pets {
+    display: flex;
+    margin-top: 50px;
+}
+
+.first-image img {
+    margin-left: 40px;
+    border-radius: 10px;
+}
+
+.first-image a {
+    margin-left: 140px;
+    text-decoration: none;
+    font-size: large;
+}
 
