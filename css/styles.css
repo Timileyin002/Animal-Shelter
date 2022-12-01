@@ -29,3 +29,33 @@ header {
     background-size: cover;
     background-position: center;
 }
+
+#pushlogo {
+    display: flex;
+    margin-top: -730px;
+    margin-left: 50px;
+}
+
+.dogs ul {
+    list-style: none;
+    display: flex;
+    margin-top: 120px;
+    margin-left: 490px;
+}
+
+.dogs a {
+    margin-left: 30px;
+    text-decoration: none;
+    font-size: large;
+    color: white;
+    font-weight: bold;
+}
+
+.donate a {
+    background-color: rgb(101, 214, 214);
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 30px;
+}
