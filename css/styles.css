@@ -1,0 +1,31 @@
+body {
+    margin: 0%;
+}
+
+#font ul {
+    display: flex;
+    list-style: none;
+    margin-left: 340px;
+}
+
+#font a {
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bolder;
+    color: white;
+}
+
+header {
+    background-color: purple;
+}
+
+#background {
+    width: 100%;
+    height: 700px;
+    margin-top: -16px;
+    background-image: url(../images/pexels-photo-1009922.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
