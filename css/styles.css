@@ -321,4 +321,13 @@ header {
     color: white;
     font-size: xx-large;
 }
+#push-volunter {
+    margin-top: 31px;
+    display: flex;
+}
+
+.button-explore a {
+    text-decoration: none;
+    color: white;
+}
 
