@@ -75,3 +75,77 @@ header {
     font-size: 23px;
     margin-top: 25px;
 }
+.tag {
+    display: flex;
+    margin-left: 450px;
+    margin-top: 40px;
+}
+
+.tag a {
+    margin-left: 30px;
+    text-decoration: none;
+    background-color: aqua;
+    margin-top: 15px;
+    padding: 25px;
+    border-radius: 50px;
+    color: white;
+}
+
+.tag p {
+    margin-left: 30px;
+    font-size: x-large;
+}
+
+#pushslide {
+    margin-top: 150px;
+}
+
+#pushslide {
+    display: flex;
+    background-color: rgb(202, 137, 202);
+    padding: 60px;
+    margin-top: 195px;
+}
+
+.image1 img {
+    width: 190px;
+    margin-left: 40px;
+    margin-top: 25px;
+}
+
+.image2 img {
+    width: 190px;
+    height: 120px;
+    margin-left: 30px;
+    margin-top: 25px;
+}
+
+.text {
+    margin-left: 70px;
+
+}
+
+.text h2 {
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.text p {
+    margin-left: 90px;
+    color: white;
+    margin-top: 30px;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.button {
+    margin-left: 210px;
+    margin-top: 30px;
+}
+
+.button a {
+    text-decoration: none;
+    color: white;
+}
