@@ -306,4 +306,19 @@ header {
     height: 300px;
     margin-top: 85px;
 }
+#Volunter {
+    margin-top: -180px;
+}
+
+#Volunter p {
+    margin-top: 30px;
+    font-size: large;
+    font-weight: 500;
+    color: white;
+}
+
+#Volunter h2 {
+    color: white;
+    font-size: xx-large;
+}
 
