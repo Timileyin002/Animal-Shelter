@@ -389,4 +389,26 @@ header {
     color: aquamarine;
     margin-left: 7px;
 }
+#pushlist{
+    display: flex;
+    margin-left: 340px;
+}
+.notice ul{
+    display: flex;
+    list-style: none;
+    margin-left: 20px;
+}
+footer{
+    background-color: black;
+    padding: 25px;
+}
+.notice a{
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: small;
+    color: rgb(61, 43, 43);
+}
+.fost p{
+    font-size: large;
+}
 
