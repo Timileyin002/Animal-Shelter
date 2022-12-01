@@ -253,5 +253,18 @@ header {
 .number center {
     margin-top: -100px;
     color: white;
+}.view {
+    margin-top: 140px;
+}
+
+.view p {
+    margin-top: 40px;
+    font-size: large;
+    font-weight: 500;
+}
+
+.button-view a {
+    color: white;
+    text-decoration: none;
 }
 
