@@ -2,7 +2,7 @@
 
 #### _{Animal House Shelter rescues 98% of our dogs and cats from pounds and animal control facilities with high rates of euthanasia.}_
 
-#### By _{Animal House Shelter is open 7 days a week and 365 days a year.}_
+#### By _{Adeaiyan Timileyin}_
 
 ## Technologies Used
 
@@ -30,4 +30,5 @@ _{Animal House Shelter is a non-profit, no-kill 501(c)3 shelter for all breeds o
 _MIT_
 
 ## Contact Information
-*_07088879147_
+
+_{timileyinadesiyan424@gmail.com}_
